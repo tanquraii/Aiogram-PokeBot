@@ -6,7 +6,7 @@ import aiohttp
 import asyncio
 
 # Initialize the bot and dispatcher
-API_TOKEN = '7360335399:AAHe6XYUGLBiZR9RGn9YIApJXxrZyabVDCM'
+API_TOKEN = 'SIKE'
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
 
